@@ -1,0 +1,23 @@
+
+<form id="1615189731">
+<property name="name" value="userTask-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="student_lastnameId" type="InputText" id="235333720">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;lastnameId (student)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="student/lastnameId"/>
+<property name="outputBinding" value="student/lastnameId"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="student_name" type="InputText" id="270027194">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;name (student)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="student/name"/>
+<property name="outputBinding" value="student/name"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="student" name="#0000A0" type="dataModelerEntry" outId="student" value="fr.dsirc.poc.jbpm.TestObject" id="student"/>
+</form>
