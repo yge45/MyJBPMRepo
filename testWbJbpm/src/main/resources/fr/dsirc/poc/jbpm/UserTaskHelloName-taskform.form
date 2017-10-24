@@ -1,0 +1,30 @@
+
+<form id="357725829">
+<property name="name" value="UserTaskHelloName-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="result" type="InputText" id="434735977">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;formResult (result)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="formResult"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="var1" type="InputText" id="1608462771">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;formVar1 (var1)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="formVar1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="var2" type="InputText" id="615893788">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;formVar2 (var2)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="formVar2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="formResult" value="java.lang.String" id="result"/>
+<dataHolder inputId="formVar1" name="#0000A0" type="basicType" outId="" value="java.lang.String" id="var1"/>
+<dataHolder inputId="formVar2" name="#FF54A7" type="basicType" outId="" value="java.lang.String" id="var2"/>
+</form>
