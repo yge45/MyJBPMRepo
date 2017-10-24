@@ -1,0 +1,30 @@
+
+<form id="123950674">
+<property name="name" value="testWbJbpm.HelloProcess-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="1" name="var1" type="InputText" id="1161438614">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;var1 (var1)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="var1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="result" type="InputText" id="1583198732">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;result (result)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="result"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="var2" type="InputText" id="1988054647">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;var2 (var2)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="var2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="result" value="java.lang.String" id="result"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="var1" value="java.lang.String" id="var1"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="var2" value="java.lang.String" id="var2"/>
+</form>
