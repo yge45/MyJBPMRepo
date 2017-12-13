@@ -3,17 +3,17 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>solar</id>
-        <url>http://solar-repo.retraite.lan/tec_socle/</url>
-        <source>SETTINGS</source>
+        <id>guvnor-m2-repo</id>
+        <url>http://localhost:8080/kie-wb-distribution-wars-6.5.0.Final-eap6_4/maven2/</url>
+        <source>PROJECT</source>
       </metadata>
     </repository>
     <repository>
       <include>true</include>
       <metadata>
-        <id>guvnor-m2-repo</id>
-        <url>http://localhost:8080/kie-wb-distribution-wars-6.5.0.Final-eap6_4/maven2/</url>
-        <source>PROJECT</source>
+        <id>solar</id>
+        <url>http://solar-repo.retraite.lan/tec_socle/</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
@@ -35,17 +35,17 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>central</id>
-        <url>https://repo.maven.apache.org/maven2</url>
-        <source>PROJECT</source>
+        <id>jboss-brms-bpmsuite-repository</id>
+        <url>file:///C:/DEV_RC/mavenRepository</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
       <include>true</include>
       <metadata>
-        <id>jboss-brms-bpmsuite-repository</id>
-        <url>file:///C:/DEV_RC/mavenRepository</url>
-        <source>SETTINGS</source>
+        <id>central</id>
+        <url>https://repo.maven.apache.org/maven2</url>
+        <source>PROJECT</source>
       </metadata>
     </repository>
   </repositories>
